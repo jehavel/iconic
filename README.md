@@ -1,0 +1,2 @@
+# iconic
+Currently gathering research for web3.0 framework for developing modularized, scalable socio-economic blocks capable of bridging the gap to transhuman society. That is, the intent is to implement successful, standardized interfaces for social nets/markets from micro to macro, in such a way that web users are incentivized to become content producers, rather than mere consumers. Should positive returns occur, they will be stored here, else, transist to a cross web3.0 
